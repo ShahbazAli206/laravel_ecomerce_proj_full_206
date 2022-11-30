@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import '_variables';
+@import '_variable';
+@import '_global.sass';
+
+
+@import 'pages/components/home/header.sass';
+@import 'pages/home.sass';
+@import 'pages/auth.sass';
+@import 'pages/product.sass';
+@import 'pages/success.sass';
+@import 'pages/cart.sass';
+@import 'pages/checkout.sass';
+@import 'pages/accounts.sass';
+@import 'pages/components/productBox.sass';
+@import 'pages/components/popUp.sass';
+
+@import 'partials/_nav.sass';
+
+
+
